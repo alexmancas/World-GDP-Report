@@ -1,1 +1,2 @@
 # World-GDP-Report
+With the help of Excel and Tableau, this report seeks to give an in-depth examination of the Wealth of Nations data collection as well as visually appealing and educational visualizations. The report will go through a number of data analysis-related topics, such as rules that must be followed when dealing with data, an overview of the Wealth of Nations data set using Excel, and a dashboard utilizing Tableau visualization.
